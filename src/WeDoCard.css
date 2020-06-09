@@ -1,0 +1,35 @@
+.wedocard {
+  box-sizing: border-box;
+  width: 300px;
+  padding-bottom: 20px;
+}
+
+.wedocard-body {
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+.wedocard-body h3 {
+  font-family: 'Klavika Bold';
+}
+
+.wedocard-button {
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white;
+  font-size: 1em;
+  padding: 2px 10px;
+}
+
+.background-red {
+  background-color: #e83f36;
+}
+
+.background-yellow {
+  background-color: #f2be1e;
+}
+
+.background-blue {
+  background-color: #91d3f0;
+}
